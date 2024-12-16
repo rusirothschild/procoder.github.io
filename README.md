@@ -1,4 +1,4 @@
 # Data Scientist
 
-###Education
+### Education
 Data Science, BS
